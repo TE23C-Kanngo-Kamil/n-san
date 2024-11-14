@@ -1,7 +1,7 @@
 ﻿Random random = new Random();
 int i = 0;
 
-while (i < 20) {
+while (i < 32) {
     int ran = random.Next(1, 8);
 
     switch (ran) {
